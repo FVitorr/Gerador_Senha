@@ -2,4 +2,6 @@
 <hr>
 <p> 🔐 Script desenvolvido em python com o objetivo de gerar senhas randômicas 🔐</p>
 <h4> Demonstração: </h4>
-![Animação](https://user-images.githubusercontent.com/75073563/184154416-d5bc77bb-55cd-439c-9a9e-15686a16ecb7.gif)
+<h2 aling="center">
+  <img src = "https://user-images.githubusercontent.com/75073563/184154995-60a34114-3228-4eec-9cb3-3ad187478ca5.gif">
+</h2>
